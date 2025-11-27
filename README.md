@@ -71,4 +71,4 @@ cmake -S . -B build
 cmake --build build
 
 # 4. Run the executable
-./build/Renderer```
+./build/Renderer
